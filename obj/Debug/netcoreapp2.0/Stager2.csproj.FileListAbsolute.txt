@@ -1,0 +1,14 @@
+c:\users\elliot\documents\visual studio 2017\Projects\Stager2\Stager2\bin\Debug\netcoreapp2.0\Stager2.deps.json
+c:\users\elliot\documents\visual studio 2017\Projects\Stager2\Stager2\bin\Debug\netcoreapp2.0\Stager2.runtimeconfig.json
+c:\users\elliot\documents\visual studio 2017\Projects\Stager2\Stager2\bin\Debug\netcoreapp2.0\Stager2.runtimeconfig.dev.json
+c:\users\elliot\documents\visual studio 2017\Projects\Stager2\Stager2\bin\Debug\netcoreapp2.0\Stager2.dll
+c:\users\elliot\documents\visual studio 2017\Projects\Stager2\Stager2\bin\Debug\netcoreapp2.0\Stager2.pdb
+c:\users\elliot\documents\visual studio 2017\Projects\Stager2\Stager2\obj\Debug\netcoreapp2.0\Stager2.csprojResolveAssemblyReference.cache
+c:\users\elliot\documents\visual studio 2017\Projects\Stager2\Stager2\obj\Debug\netcoreapp2.0\Stager2.csproj.CoreCompileInputs.cache
+c:\users\elliot\documents\visual studio 2017\Projects\Stager2\Stager2\obj\Debug\netcoreapp2.0\Stager2.AssemblyInfoInputs.cache
+c:\users\elliot\documents\visual studio 2017\Projects\Stager2\Stager2\obj\Debug\netcoreapp2.0\Stager2.AssemblyInfo.cs
+c:\users\elliot\documents\visual studio 2017\Projects\Stager2\Stager2\obj\Debug\netcoreapp2.0\Stager2.dll
+c:\users\elliot\documents\visual studio 2017\Projects\Stager2\Stager2\obj\Debug\netcoreapp2.0\Stager2.pdb
+c:\users\elliot\documents\visual studio 2017\Projects\Stager2\Stager2\bin\Debug\netcoreapp2.0\API.dll
+c:\users\elliot\documents\visual studio 2017\Projects\Stager2\Stager2\bin\Debug\netcoreapp2.0\API.pdb
+c:\users\elliot\documents\visual studio 2017\Projects\Stager2\Stager2\obj\Debug\netcoreapp2.0\Stager2.csproj.CopyComplete
